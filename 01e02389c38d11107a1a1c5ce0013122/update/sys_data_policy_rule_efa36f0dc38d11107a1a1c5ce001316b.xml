@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>requestor</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-31 04:05:41</sys_created_on>
+        <sys_data_policy display_value="Sets the Requestor field to mandatory">6ba36f0dc38d11107a1a1c5ce0013168</sys_data_policy>
+        <sys_id>efa36f0dc38d11107a1a1c5ce001316b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>requestor</sys_name>
+        <sys_package display_value="Test Git" source="x_54233_test_git">01e02389c38d11107a1a1c5ce0013122</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Git">01e02389c38d11107a1a1c5ce0013122</sys_scope>
+        <sys_update_name>sys_data_policy_rule_efa36f0dc38d11107a1a1c5ce001316b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-31 04:05:41</sys_updated_on>
+        <table>x_54233_test_git_wish_item</table>
+    </sys_data_policy_rule>
+</record_update>
